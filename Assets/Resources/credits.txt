@@ -1,0 +1,13 @@
+bossroar - https://freesound.org/people/MisterSegev/sounds/207745/
+playerdeath - https://freesound.org/people/jalastram/sounds/317767/
+playerjump - http://soundbible.com/2068-Woosh.html
+enemyatk - https://freesound.org/people/Michel88/sounds/76965/
+swords - https://opengameart.org/content/pixel-swords
+enemydeath - https://freesound.org/people/Groadr/sounds/253473/
+playerhurt - https://freesound.org/people/LittleRobotSoundFactory/sounds/270332/
+pickup - https://freesound.org/people/jobro/sounds/74833/
+enemysounds, enemyhurt - https://freesound.org/people/THE_bizniss/sounds/37823/
+swordswing - https://freesound.org/people/dave.des/sounds/127197/
+sign sprite - https://opengameart.org/content/lpc-signposts-graves-line-cloths-and-scare-crow
+dash - https://freesound.org/people/crashoverride61088/sounds/146932/
+step - https://freesound.org/people/bevangoldswain/sounds/54778/
